@@ -1,6 +1,7 @@
 {
   "name": "trail-stay-app",
   "version": "1.0.0",
+  "description": "Trail Stay: Search rustic and luxury outdoor stays near trails.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -14,12 +15,13 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.1.0",
-    "vite": "^4.5.0",
-    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
-    "autoprefixer": "^10.4.16"
+    "tailwindcss": "^3.4.1",
+    "vite": "^4.5.0"
   }
 }
+
 
 
 
